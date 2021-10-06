@@ -7,7 +7,7 @@ package com.promo.dao;
 public class InventoryDAO {
 	
 	/**
-	 * This method is used to 
+	 * This method is used to to retrieve all inventories
 	 * @return Inventory[]
 	 */
 	public Inventory[] retrieveInventories() {
